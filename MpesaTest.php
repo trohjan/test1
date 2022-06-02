@@ -46,7 +46,7 @@ $curl_Tranfer2_post_data = [
     'PartyB' => $Business_Code,
     'PhoneNumber' => $phone_number,
     'CallBackURL' => $CallBackURL,
-    'AccountReference' => 'Hillary',
+    'AccountReference' => 'James Obaigwa',
     'TransactionDesc' => 'Test',
 ];
 
