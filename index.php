@@ -86,7 +86,7 @@
         <div class="media mt-3 pl-2">
                           <!--bs5 input-->
 
-            <form class="row g-3" action="MpesaTest.php" method="post">
+            <form class="row g-3" action="api/process-request.php" method="post">
             
                 <div class="col-12">
                   <label for="inputAddress" class="form-label">Amount</label>
@@ -94,7 +94,7 @@
                 </div>
                 <div class="col-12">
                   <label for="inputAddress2" class="form-label" >Phone Number</label>
-                  <input type="text" class="form-control" name="phone_number" value="254" placeholder="Enter Phone Number">
+                  <input type="text" class="form-control" name="phone_number"  placeholder="Enter Phone Number">
                 </div>
              
                 <div class="col-12">
